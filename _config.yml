@@ -1,0 +1,13 @@
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+permalink: pretty
+url: https://gpdetc.org

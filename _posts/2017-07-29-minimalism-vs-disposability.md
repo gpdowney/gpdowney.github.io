@@ -1,0 +1,12 @@
+---
+title: "Minimalism vs. disposability"
+tag: blog
+---
+
+I didn't pack my shaving razor or cream. I figured I could go without a shave if I was going to be camping and crashing on couches, plus then I wouldn't need to worry about getting a literal weapon through TSA. Worst case, I could get a cheap razor for a dollar. Two less things to pack! Look at what a light traveler I am.
+
+But two weeks into the trip I decided I didn't want my "beard" anymore. The sparse and not-pube-unlike look was certainly not inconsistent with my dirty clothes, dirty feet, and general odor. Still, I wanted a shave, so I went to the drugstore and bought a razor and the extra small can of shaving cream for $5. Which doesn't seem like that much, but in LA that's like 3 delicious tacos. Beyond feeling like a waste of money, shaving with this extremely cheap tool was a long and uniquely unpleasant struggle. I ended up getting water all over myself and even clogging the sink. And, when it was all over, I had to throw away a considerable amount of plastic and metal.
+
+I'd like to think that my minimalism is more sustainable. Less stuff should mean that fewer resources are consumed on my behalf. But sometimes I find that my minimalism is really just about getting rid of old stuff so I can buy new stuff. Gifting an old coat to a friend doesn't offset my buying a new Patagucci jacket, even if the jacket does have a great warranty/repair policy and is made of 100% recycled geese. Or, as in the case of the razor, I imagine that I have fewer things but I actually depend on lots of disposable things that don't show up in my closet or backpack. Like I didn't (until this trip, more on that later) have a car, but I have taken plenty of Ubers/Lyfts and I know that those companies often require drivers to buy new cars. Uber/Lyft lets me feel like I'm living a car-free life, but in fact I'm just letting other people worry about car ownership (payments, insurance, gas, taxes, accidents, tickets, &c) for me. Uber/Lyft lets us treat both cars and the people who drive them as disposable. That's not the kind of minimalism I aspire to.
+
+The kind of minimalism I do admire involves thrift and care. It means repairing that Patagucci jacket with duct tape at home instead of shipping it across the country to get a patch. It means licking every last delicious smudge of almond butter because I packed just the right amount of food. It means taking the blade part out, and bringing the damn safety razor with me next time.

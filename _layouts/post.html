@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<h1>{{ page.title | downcase }}</h1>
+<p>{{ page.date | date_to_string }} - Graham</p>
+
+{% if page.previous %}
+<p>previously:
+    <a href=" {{ page.previous.url }}"> 
+    {{ page.previous.title | downcase }}</p></a>
+{% endif %}
+
+{{ content }}
+
+{% if page.tag == 'radio' %}
+{% include radio.html %}
+{% endif %}
+
+{% if page.next %}
+<p>next post:
+    <a href=" {{ page.next.url }}">  
+    {{ page.next.title | downcase }}</p></a>
+{% endif %}
