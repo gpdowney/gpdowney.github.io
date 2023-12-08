@@ -1,0 +1,22 @@
+---
+title: "List of Books I've Read"
+---
+
+<h1> {{ page.title }} </h1>
+
+<table>
+    <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Rating (0-5)</th>
+        <th>Year</th>
+    </tr>
+    {% for book in site.data.books %}
+    <tr>
+        <td>{{ book["Title"]}}</td>
+        <td>{{ book["Author"]}}</td>
+        <td>{{ book["Rating"]}}</td>
+        <td>{{ book["Year"]}}</td>
+    </tr>
+    {% endfor %}
+</table>
